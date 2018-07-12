@@ -2,8 +2,8 @@
 #include<math.h>
 int main()
 {
-  int n=10;
-  printf("%d",n); 
+  int g=10;
+  printf("%d",g); 
   return 0;
   
 }
